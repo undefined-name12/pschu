@@ -1,4 +1,4 @@
-![ZeroC2](https://github.com/BishopFox/sliver/assets/93959737/37af624e-9935-40d2-b2ff-630c53e3ec21)
+![pschu](https://ibb.co/9H0HKW6w)
 
 # ADVERTENCIA
 **ESTO ES SOLO PARA FINES EDUCATIVOS**
@@ -126,24 +126,6 @@ mv terylene ../server/dropper
 ```
 
 >Disfruta ;)
-
-# Infraestructura de ZeroMq y Terylene
-
-## Monitorización cardíaca dúplex Sistema
-
-![ZeroC2](https://github.com/polymaster3313/Polyaccess/assets/93959737/ae1d8bba-2fa4-4446-8fee-f610667dbfd0)
-
-## Transferencia y migración
-
-![Migrationfinal(1)](https://github.com/polymaster3313/Polyaccess/assets/93959737/32e205e3-e817-4b5b-ad98-7593420b7589)
-
-# Deduplicación de la conexión
-
-![connection Deduplicación](https://github.com/polymaster3313/Polyaccess/assets/93959737/d3afa189-bc73-439c-b575-d2b9fbb12d59)
-
-## Deduplicación de conexión, retroceso y demostración de reintento
-
-https://github.com/polymaster3313/Polyaccess/assets/93959737/4315b8ee-97c6-4fa3-9be9-e0b54f3f1cf0
 
 PD: Si se agota el tiempo de espera de la conexión (5 h), Terylene declarará el C2 como inactivo y se activará la **prioridad madre**.
 
