@@ -7,7 +7,7 @@
 
 ## Aún en DESARROLLO
 
-Características de ZeroC2:
+Características de PschuC2:
 ```diff
 # Monitoreo de latidos dúplex
 # Mecanismo de deduplicación de conexión
@@ -103,7 +103,7 @@ cd config
 nano config.go
 ```
 
-### Crea terylene y ZeroC2
+### Crea terylene y PschuC2
 
 ```
 cdserver
