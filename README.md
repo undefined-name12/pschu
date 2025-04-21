@@ -1,4 +1,4 @@
-![pschu]([https://ibb.co/9H0HKW6w](https://i.ibb.co/fdWd6Hf8/Chat-GPT-Image-21-abr-2025-08-25-42.png)
+![pschu](https://i.ibb.co/fdWd6Hf8/Chat-GPT-Image-21-abr-2025-08-25-42.png)
 
 # ADVERTENCIA
 **ESTO ES SOLO PARA FINES EDUCATIVOS**
