@@ -47,7 +47,7 @@ Próximas características de la versión 0.3.0:
 - Se añadieron más métodos (por ahora)
 ```
 
-# [Wiki de PschuC2](https://github.com/polymaster3313/terylene/wiki/Introduction)
+# [Wiki de PschuC2](https://github.com/undefined-name12/pschu/wiki)
 
 # Configuración basada en Debian
 > Ubuntu, Debian, Kali, Parrot OS
