@@ -84,7 +84,7 @@ sudo yum install -y zeromq-devel
 sudo yum install golang
 ```
 
-#Configuración de ZeroC2 y Terylene
+#Configuración de PschuC2 y Terylene
 
 ### Clonar el repositorio
 ```
@@ -119,7 +119,7 @@ sudo go build -ldflags="-s -w" terylene.go
 mv terylene ../server/dropper
 ```
 
-### Inicia ZeroC2
+### Inicia PschuC2
 
 ```
 ./server
@@ -128,7 +128,3 @@ mv terylene ../server/dropper
 >Disfruta ;)
 
 PD: Si se agota el tiempo de espera de la conexión (5 h), Terylene declarará el C2 como inactivo y se activará la **prioridad madre**.
-
-#Madre Prioridad
-
-![madre](https://github.com/polymaster3313/Polyaccess/assets/93959737/197b2d09-8b81-40b6-b73d-e5b14df6c5ff)
