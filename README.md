@@ -11,7 +11,7 @@ Características de PschuC2:
 ```diff
 # Monitoreo de latidos dúplex
 # Mecanismo de deduplicación de conexión
-# Hecho en Golang + ZeroMq
+# Hecho en Golang + PschuC2Mq
 # Capaz de gestionar más de 500k botnets
 # Sensor de latidos para rastrear bots
 # Migración y transferencia
@@ -68,7 +68,7 @@ snap install go --classic
 
 ```
 sudo pacman -Sy
-sudo pacman -S zeromq
+sudo pacman -S PschuC2mq
 sudo pacman -S go
 ```
 
@@ -80,7 +80,7 @@ sudo pacman -S go
 ```
 sudo yum update
 sudo dnf makecache --refresh
-sudo yum install -y zeromq-devel
+sudo yum install -y PschuC2mq-devel
 sudo yum install golang
 ```
 
