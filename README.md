@@ -1,4 +1,4 @@
-![pschu](https://i.ibb.co/fdWd6Hf8/Chat-GPT-Image-21-abr-2025-08-25-42.png)
+![pschu](https://i.ibb.co/SwzYM4sQ/f.png)
 
 Características de PschuC2:
 ```diff
