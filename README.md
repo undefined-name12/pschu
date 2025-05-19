@@ -1,12 +1,5 @@
 ![pschu](https://i.ibb.co/fdWd6Hf8/Chat-GPT-Image-21-abr-2025-08-25-42.png)
 
-# ADVERTENCIA
-**ESTO ES SOLO PARA FINES EDUCATIVOS**
-
-**USAR ESTO PARA ATAQUES DDoS ACTUALES ESTÁ ABSOLUTAMENTE CONDENADO Y PODRÍA RESULTAR EN GRAVES CONSECUENCIAS LEGALES**
-
-## Aún en DESARROLLO
-
 Características de PschuC2:
 ```diff
 # Monitoreo de latidos dúplex
