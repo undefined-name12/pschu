@@ -1,4 +1,4 @@
-<a href="https://ibb.co/VYsnzcjH"><img src="https://i.ibb.co/1GkyPtvs/f.png" alt="f" border="0" /></a>
+![pschu](pschu.png)
 
 Características de PschuC2:
 ```diff
