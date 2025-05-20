@@ -77,7 +77,7 @@ sudo yum install -y PschuC2mq-devel
 sudo yum install golang
 ```
 
-#Configuración de PschuC2 y Terylene
+# Configuración de PschuC2 y Terylene
 
 ### Clonar el repositorio
 ```
